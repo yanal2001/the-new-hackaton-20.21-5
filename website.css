@@ -1,0 +1,67 @@
+.man{
+	position:relative;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+   margin-top: 550px;
+   margin-left: 50px;
+}
+
+body{
+	background: no-repeat;
+	background-size: 1550px 780px;
+	background-image: url(https://img.itch.zone/aW1hZ2UvMjI0MTAzLzEwNTgyMjkucG5n/original/gaERSZ.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+*{
+	padding: 0;
+	margin: 0;
+}
+#screen{
+	width: 700px;
+	height: 700px;
+	background-image: url(https://img.itch.zone/aW1hZ2UvMjI0MTAzLzEwNTgyMjkucG5n/original/gaERSZ.png);
+	background-repeat: no-repeat;
+
+
+
+	background-size: cover;
+	position: relative;
+	left: 150px;
+	top : 150px;
+}
+#character{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	position: relative;
+	top:150px;
+	left:150px;
+	animation: character Is invinite linear;
+	}
+
+@keyframes character{
+
+	0%{left:480px;}
+	100%{left:-40px;}
+}
+*/
